@@ -1,0 +1,8 @@
+{
+  "name": "AT Academics LMS",
+  "description": "Comprehensive Learning Management System with course management, student credential provisioning, semester progress tracking, assignment grading and download center, secure video streaming, automated deadline notifications, and instructor messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": "user-admin-atikur",
+      "name": "Atikur Rahman",
+      "email": "atacademicsltd@gmail.com",
+      "loginId": "atikur.rahman",
+      "password": "ATAcademicslms@2026",
+      "role": "admin",
+      "department": "University Administration",
+      "cohort": "Executive Faculty",
+      "coursesEnrolled": [],
+      "status": "active"
+    },
+    {
+      "id": "user-1791582063907",
+      "name": "Clifford Feehi Amartey",
+      "email": "amarteyclifford18@yahoo.com",
+      "loginId": "THM2603004",
+      "studentId": "THM2603004",
+      "password": "2603004",
+      "role": "student",
+      "department": "Tourism and Hospitality Management",
+      "cohort": "October",
+      "coursesEnrolled": [],
+      "status": "active",
+      "totalTuitionFee": 1200,
+      "tuitionPaid": 200,
+      "tuitionDue": 1000
+    },
+    {
+      "id": "user-1791582538675",
+      "name": "Atikur Rahman",
+      "email": "ashik9461@gmail.com",
+      "loginId": "a.rahman",
+      "password": "A.Rahman2026",
+      "role": "teacher",
+      "department": "Tourism and Hospitality Management",
+      "cohort": "2026 Cohort",
+      "coursesEnrolled": [],
+      "status": "active"
+    }
+  ],
+  "departments": [
+    {
+      "id": "dept-business",
+      "name": "Department of Business & Management",
+      "code": "BUS",
+      "description": "Corporate leadership, operational strategy, international finance, and service industry management.",
+      "headOfDepartment": "Dr. Harrison Wells, FRSA"
+    },
+    {
+      "id": "dept-health",
+      "name": "Department of Health & Care Management",
+      "code": "HCM",
+      "description": "Healthcare governance, NHS clinical leadership, social care management, and health informatics.",
+      "headOfDepartment": "Prof. Eleanor Vance, MBChB"
+    },
+    {
+      "id": "dept-law",
+      "name": "Department of Law & Legal Studies",
+      "code": "LAW",
+      "description": "UK common law, corporate jurisprudence, international human rights, and contract tort governance.",
+      "headOfDepartment": "Lord Justice Marcus Thorne, KC"
+    },
+    {
+      "id": "dept-computing",
+      "name": "Department of Computing & Information Technology",
+      "code": "CIT",
+      "description": "Cyber threat intelligence, network cryptography, distributed systems, and defensive security architectures.",
+      "headOfDepartment": "Dr. Alistair Finch, CEng MBCS"
+    }
+  ],
+  "courses": [],
+  "assignments": [],
+  "submissions": [],
+  "deletionRequests": [],
+  "notifications": [],
+  "announcements": [],
+  "chatThreads": [],
+  "chatMessages": [],
+  "videoNotes": [],
+  "quizAttempts": [],
+  "progress": {},
+  "lastUpdated": "2026-10-16T10:53:33.719Z",
+  "deletedItemIds": [
+    "course-it401-1792148001634"
+  ]
+}
